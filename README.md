@@ -28,7 +28,7 @@ The goal is to evaluate the performance of these models on training, validation,
 
 
 
-\## 📊 Results
+\## Results
 
 
 
@@ -70,7 +70,7 @@ The goal is to evaluate the performance of these models on training, validation,
 
 
 
-\## 📌 Key Observations
+\## Key Observations
 
 \- \*\*Multi-class Logistic Regression\*\* slightly outperformed One-vs-All Logistic Regression.
 
@@ -86,11 +86,11 @@ The goal is to evaluate the performance of these models on training, validation,
 
 
 
-\## 🗂 Dataset
+\## Dataset
 
 \- \*\*MNIST\*\* handwritten digit dataset (preprocessed with feature selection \& normalization).
 
-\- Dataset split into \*\*Training\*\*, \*\*Validation\*\*, and \*\*Testing\*\* sets.
+\- Dataset split into Training, Validation, and Testing sets.
 
 
 
@@ -98,7 +98,7 @@ The goal is to evaluate the performance of these models on training, validation,
 
 
 
-\## 🚀 How to Run
+\## How to Run
 
 1\. Clone this repository:
 
